@@ -41,7 +41,8 @@ Contributions are welcome! If you have suggestions or want to improve the dashbo
 ## Acknowledgements
 
 - Special thanks to the dataset available on Kaggle which inspired the analytical framework for this dashboard.
-
+- This Project is for Educational Purpose Only.
+  
 ## Contact
 
 Should you have any questions, suggestions, or want to discuss further insights, please contact me via my GitHub profile.
